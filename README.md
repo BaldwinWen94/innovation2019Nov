@@ -1,5 +1,5 @@
 # innovation2019Nov
-This project serves as the waste classification part of Bumble Bee, which is a participator (Paypal Shanghai) Innovation Day 2019.
+This project serves as the waste classification part of Bumble Bee, which is 1st place of (Paypal Shanghai) Innovation Day 2019.
 
 Use Pytorch & RaspberryPi & Bootstrap4
 
